@@ -1,0 +1,2 @@
+# Stroke-Classification-and-Detection-Using-Neuroimage-Based-ML-Models
+Developed a machine learning framework for stroke detection and classification using MRI/CT neuroimages. Applied preprocessing, segmentation (U-Net, CNN), and feature extraction to distinguish ischemic vs. hemorrhagic strokes. Achieved high accuracy with ML/DL models, enabling faster, reliable, and AI-driven clinical decision support.
